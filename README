@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=5064
+
+FileSync offers file synchronization functionality. Once you save a file, it can be synchronized to another folder. 
+
+Please see the latest update here: https://github.com/cosminadrianpopescu/filesync
